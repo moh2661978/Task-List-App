@@ -22,5 +22,5 @@ The Task List App is a simple web application that allows users to create, manag
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/moh2661978/task-list-app.git
+   git clone https://github.com/moh2661978/task-list.git
    ```
