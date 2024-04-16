@@ -1,4 +1,4 @@
-# task-list
+# Task List App
 
 The Task List App is a simple web application (IBM WebDev Course Project) that allows users to create, manage, and delete tasks. It provides a user-friendly interface for organizing tasks and marking them as complete.
 
